@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <main className='w-max-full md:h-screen flex flex-col items-center bg-blue-500'>
+      <main className='w-max-full md:h-full flex flex-col items-center bg-blue-500'>
         <header 
         data-aos="fade-up"
         data-aos-delay="700"
