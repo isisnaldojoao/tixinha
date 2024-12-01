@@ -20,7 +20,7 @@ function App() {
         data-aos="fade-up"
         data-aos-delay="700"
         className='animate-bounce-slow'>
-          <img src='src/assets/tixinha_logo.png'/>
+          <img src='https://i.imgur.com/Qu1DGOS.png'/>
         </header>
         <div className='flex flex-col justify-center items-center'>
           <div 
