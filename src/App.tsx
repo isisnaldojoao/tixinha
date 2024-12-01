@@ -37,7 +37,7 @@ function App() {
               <h1 className='text-gray-400' >09/12/2024</h1>
               <h1>17H00</h1>
               <div className='font-bold'>
-                <div>KRU</div>
+                <div>KRUU</div>
                 <div>SHINDEN</div>
               </div>
             </div>
