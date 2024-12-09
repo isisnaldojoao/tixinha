@@ -36,7 +36,7 @@ function App() {
 
           <div className="w-full h-96 flex justify-center items-center bg-gray-800 ">
             <iframe
-              src="https://player.twitch.tv/?channel=tixinhadois&parent=localhost"
+              src="https://player.twitch.tv/?channel=tixinhadois&parent=tixinha-bux5.vercel.app"
               height="380"
               width="854"
               className="rounded-lg shadow-lg"
